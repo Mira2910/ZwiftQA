@@ -1,4 +1,4 @@
-# ZwiftQA
+# README file for Zwift
 
 This is bbd style testing framework with cucumber build on JAVA programming language.
 As a built tool I used MAVEN.
